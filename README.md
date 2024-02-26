@@ -1,2 +1,2 @@
 # ApiWeather
- Developed a weather app using ReactJS and openweather.
+ Developed a weather app using ReactJS and openweathermap.
